@@ -1,0 +1,14 @@
+C:\Users\gibso\source\repos\screen sound\bin\Debug\net8.0\screen sound.exe
+C:\Users\gibso\source\repos\screen sound\bin\Debug\net8.0\screen sound.deps.json
+C:\Users\gibso\source\repos\screen sound\bin\Debug\net8.0\screen sound.runtimeconfig.json
+C:\Users\gibso\source\repos\screen sound\bin\Debug\net8.0\screen sound.dll
+C:\Users\gibso\source\repos\screen sound\bin\Debug\net8.0\screen sound.pdb
+C:\Users\gibso\source\repos\screen sound\obj\Debug\net8.0\screen sound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gibso\source\repos\screen sound\obj\Debug\net8.0\screen sound.AssemblyInfoInputs.cache
+C:\Users\gibso\source\repos\screen sound\obj\Debug\net8.0\screen sound.AssemblyInfo.cs
+C:\Users\gibso\source\repos\screen sound\obj\Debug\net8.0\screen sound.csproj.CoreCompileInputs.cache
+C:\Users\gibso\source\repos\screen sound\obj\Debug\net8.0\screen sound.dll
+C:\Users\gibso\source\repos\screen sound\obj\Debug\net8.0\refint\screen sound.dll
+C:\Users\gibso\source\repos\screen sound\obj\Debug\net8.0\screen sound.pdb
+C:\Users\gibso\source\repos\screen sound\obj\Debug\net8.0\screen sound.genruntimeconfig.cache
+C:\Users\gibso\source\repos\screen sound\obj\Debug\net8.0\ref\screen sound.dll
